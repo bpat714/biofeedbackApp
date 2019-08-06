@@ -42,9 +42,6 @@ export default class BiofeedbackApp extends Component {
         <View style={{width: screenWidth}}>
           <BreathingSummaryPage/>
         </View>
-        <View style={{width: screenWidth}}>
-          <BreathingSummaryPage/>
-        </View>
       </ScrollView>
     );
   }
