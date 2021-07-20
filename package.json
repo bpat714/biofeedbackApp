@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-pure-chart": "0.0.24",
     "victory-native": "^32.0.2"
   },
